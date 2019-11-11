@@ -101,5 +101,9 @@ mv ./web ./web-old
 tar -zxvf web.tar.gz
 ```
  3. Configure the database. For details, see db_info.inc.php in the original web (web-old).
- 4. 
+ 4. Delete the original jol database and import the downloaded sql file
+ 5. Download the nginx config file.Back up the original configuration file and replace it, restart nginx。Don't forget to set to your own configuration.
+```bash
+nginx -s reload
+```
  
