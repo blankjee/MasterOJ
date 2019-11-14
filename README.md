@@ -1,6 +1,6 @@
 ## MasterOJ
 
-[中文]([English](https://github.com/yemaster/MasterOJ/blob/master/readme-cn.md)
+[中文](https://github.com/yemaster/MasterOJ/blob/master/readme-cn.md)
 
 ### Description
 
