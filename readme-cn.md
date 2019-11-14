@@ -88,7 +88,7 @@ Hustoj（支持2019年4月到现在的所有版本）-仅使用评论机
 
 #### 安装依赖性
 
-需要先安装hustoj（访问[https://github.com/zhblue/hustoj#hustoj----%E6%B5%81%E8%A1%8C%E7%9A%84oj%E7%B3%BB% E7％BB％9F％E8％B7％A8％E5％B9％B3％E5％8F％B0％E6％98％93％E5％AE％89％E8％A3％85％E6％9C％89％E9％ A2％98％E5％BA％93]（https://github.com/zhblue/hustoj#hustoj----%E6%B5%81%E8%A1%8C%E7%9A%84oj%E7%B3 ％BB％E7％BB％9F％E8％B7％A8％E5％B9％B3％E5％8F％B0％E6％98％93％E5％AE％89％E8％A3％85％E6％9C％89 ％E9％A2％98％E5％BA％93）以获取更多信息）
+需要先安装hustoj（访问[https://github.com/zhblue/hustoj#hustoj----%E6%B5%81%E8%A1%8C%E7%9A%84oj%E7%B3%BB%E7％BB％9F％E8％B7％A8％E5％B9％B3％E5％8F％B0％E6％98％93％E5％AE％89％E8％A3％85％E6％9C％89％E9％A2％98％E5％BA％93](https://github.com/zhblue/hustoj#hustoj----%E6%B5%81%E8%A1%8C%E7%9A%84oj%E7%B3 ％BB％E7％BB％9F％E8％B7％A8％E5％B9％B3％E5％8F％B0％E6％98％93％E5％AE％89％E8％A3％85％E6％9C％89％E9％A2％98％E5％BA％93)以获取更多信息）
 
 #### 正式安装
  
